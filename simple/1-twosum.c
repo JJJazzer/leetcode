@@ -1,4 +1,5 @@
-int* twoSum(int* nums, int numsSize, int target) {
+int *twoSum(int* nums, int numsSize, int target)
+{
     /* O(n^2) solution ways */
     int i, j;
     int *temp = (int*) malloc(sizeof(int) * 2);
@@ -15,3 +16,7 @@ int* twoSum(int* nums, int numsSize, int target) {
 }
 
 
+int *twoSum(int *nums, int numsSize, int target)
+{
+
+}
