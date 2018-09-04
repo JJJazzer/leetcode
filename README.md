@@ -1,5 +1,4 @@
 # leetcode documents
-***
 This repository is answer of leetcode, it have three dircetory divide to different level.</br>
 It will update every day, only if i forgot it.
 ***
