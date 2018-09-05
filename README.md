@@ -7,6 +7,7 @@ It will update every day, only if i forgot it.
    - [x]  7. Reverse Integer
    - [x]  9. Palindrome Number
    - [x] 13. Roman to Integer
+   - [x] 14. Longest Common Prefix
 - [ ] medium
    - [x] 2. Add Two Numbers
    - [x] 3. Longest SubString Without Repeating Character
