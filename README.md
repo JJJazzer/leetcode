@@ -8,6 +8,7 @@ It will update every day, only if i forgot it.
    - [x]  9. Palindrome Number
    - [x] 13. Roman to Integer
    - [x] 14. Longest Common Prefix
+   - [x] 21. Merge Two Sorted Lists
 - [ ] medium
    - [x] 2. Add Two Numbers
    - [x] 3. Longest SubString Without Repeating Character
