@@ -15,7 +15,8 @@ It will update every day, only if i forgot it.
 - [ ] medium
    - [x] 2. Add Two Numbers
    - [x] 3. Longest SubString Without Repeating Character
+   - [x] 5. Longest Palindromic SubString
 - [ ] hard
-
+   - [x] 4. Median Of Two Sroted Array
 Please contact with me: </br>
 :e-mail: <ilhanwnz@hotmail.com>
